@@ -172,8 +172,13 @@ pharms2 = pd.DataFrame({'name': name, # Make our data frame
                    'county': county,
                    'zip': zip})
 pharms2
-pharms2.to_csv('pharms2.csv')
+pharma_acton_bell = pharms1
+pharma_alameda_fresno = pharms2
+pharma_alameda_fresno.to_csv('pharma_alameda_fresno.csv')
 
-# Combine all of these pharms1, pharms2,
-
+# Combine all of these
+allpharms = pd.concat(pharma_acton_bell,pharma_alameda_fresno,)
 # Then we will group by COUNTY and create a new data frame of those groupings
+pharmaxcounty = pharma.groupby('County')
+pharma_per_county = all_pharms['name'].nunique().sort_values(ascending=False).reset_index()
+pharma_per_county.to_csv('pharma_per_county.csv')

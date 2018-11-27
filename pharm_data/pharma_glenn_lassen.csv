@@ -1,0 +1,233 @@
+,name,license_type,city,county,zip
+0,AMERI MEX PHARMACY ,License Type: Pharmacy (Community),BRAWLEY, IMPERIAL, 92227
+1,ARVIN PHARMACY ,License Type: Pharmacy (Community),ARVIN, KERN, 93203
+2,AVENAL STATE PRISON ,License Type: Correctional Pharmacy,AVENAL, KINGS, 93204
+3,BRIMHALL PHARMACY ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93312
+4,CALEXICO PHARMACY ,License Type: Pharmacy (Community),CALEXICO, IMPERIAL, 92231
+5,CALIF STATE COLLEGE-BAKERSFIELD ,License Type: Pharmacy (Government Owned Community),BAKERSFIELD, KERN, 93309
+6,CALIF SUBSTANCE ABUSE TREATMENT FACILITY  STATE PRISON CORCORAN ,License Type: Correctional Pharmacy,CORCORAN, KINGS, 93212
+7,CALIFORNIA CITY CORRECTIONAL CENTER ,License Type: Correctional Pharmacy,CALIFORNIA CITY, KERN, 93505
+8,CALIFORNIA CORRECTIONAL CENTER PHARMACY ,License Type: Correctional Pharmacy,SUSANVILLE, LASSEN, 96127
+9,CALIFORNIA CORRECTIONAL INSTITUTION ,License Type: Correctional Pharmacy,TEHACHAPI, KERN, 93561
+10,CALIPATRIA STATE PRISON ,License Type: Correctional Pharmacy,CALIPATRIA, IMPERIAL, 92233
+11,CAREPHARM PHARMACY ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93313
+12,CENTER PROFESSIONAL PHARMACY ,License Type: Pharmacy (Community),RIDGECREST, KERN, 93555
+13,CENTINELA STATE PRISON ,License Type: Correctional Pharmacy,IMPERIAL, IMPERIAL, 92251
+14,CLINICA PHARMACY ,License Type: Pharmacy (Community),BRAWLEY, IMPERIAL, 92227
+15,CLINICA SIERRA VISTA ,License Type: Pharmacy (Community),LAMONT, KERN, 93241
+16,COMMUNITY PHARMACY ,License Type: Pharmacy (Community),IMPERIAL, IMPERIAL, 92251
+17,CORAM CVS/SPECIALTY INFUSION SERVICES ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93308
+18,CORCORAN STATE PRISON HOSPITAL PHARMACY ,License Type: Correctional Pharmacy,CORCORAN, KINGS, 93212
+19,COSTCO PHARMACY #121 ,License Type: Pharmacy (Community),EL CENTRO, IMPERIAL, 92243
+20,COSTCO PHARMACY #1244 ,License Type: Pharmacy (Community),HANFORD, KINGS, 93230
+21,COSTCO PHARMACY #643 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93313
+22,COSTCO PHARMACY NO 688 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93308
+23,COYOTE VALLEY PHARMACY ,License Type: Pharmacy (Community),Accusation filed, LAKE, 95467
+24,CUREX PHARMACY INC ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93308
+25,CVS PHARMACY #4221 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93311
+26,CVS PHARMACY #8913 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93312
+27,CVS/PHARMACY # 16160 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93306
+28,CVS/PHARMACY # 16723 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93312
+29,CVS/PHARMACY # 16937 ,License Type: Pharmacy (Community),EL CENTRO, IMPERIAL, 92243
+30,CVS/PHARMACY # 17025 ,License Type: Pharmacy (Community),HANFORD, KINGS, 93230
+31,CVS/PHARMACY # 17552 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93304
+32,CVS/PHARMACY # 17602 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93311
+33,CVS/PHARMACY #09828 ,License Type: Pharmacy (Community),HANFORD, KINGS, 93230
+34,CVS/PHARMACY #09878 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93311
+35,CVS/PHARMACY #09893 ,License Type: Pharmacy (Community),HANFORD, KINGS, 93230
+36,CVS/PHARMACY #09900 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93306
+37,CVS/PHARMACY #09943 ,License Type: Pharmacy (Community),LAKEPORT, LAKE, 95453
+38,CVS/PHARMACY #09975 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93308
+39,CVS/PHARMACY #2768 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93307
+40,CVS/PHARMACY #5495 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93309
+41,CVS/PHARMACY #7001 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93306
+42,CVS/PHARMACY #9188 ,License Type: Pharmacy (Community),ORLAND, GLENN, 95963
+43,CVS/PHARMACY #9204 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93309
+44,DELANO FAMILY PHARMACY ,License Type: Pharmacy (Community),DELANO, KERN, 93215
+45,DESERT PHARMACY ,License Type: Pharmacy (Community),EL CENTRO, IMPERIAL, 92243
+46,DIGNITY HEALTH BAKERSFIELD INFUSION CENTER ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93309
+47,DIMAS PHARMACY ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93301
+48,DOWNTOWN PHARMACY ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93301
+49,DWAYNES FRIENDLY PHARMACY ,License Type: Pharmacy (Community),BISHOP, INYO, 93514
+50,EL CENTRO PHARMACY ,License Type: Pharmacy (Community),EL CENTRO, IMPERIAL, 92243
+51,EL TEJON DRUGS ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93308
+52,EL TEJON DRUGS ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93304
+53,EL TEJON PHARMACY ,License Type: Pharmacy (Community),FRAZIER PARK, KERN, 93225
+54,EXPRESS PHARMACY #10 ,License Type: Pharmacy (Community),HANFORD, KINGS, 93230
+55,EXPRESS PHARMACY #3 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93311
+56,EXPRESS PHARMACY #7 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93312
+57,EXPRESS PHARMACY #8 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93312
+58,EXPRESS PHARMACY #9 ,License Type: Pharmacy (Community),TAFT, KERN, 93268
+59,EXPRESS PHARMACY 4 ,License Type: Pharmacy (Community),WASCO, KERN, 93280
+60,FAMILY HEALTHCARE NETWORK ,License Type: Pharmacy (Community),HANFORD, KINGS, 93230
+61,FAMILY PHARMACY ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93308
+62,FARMACIA DEL PUEBLO ,License Type: Pharmacy (Community),BRAWLEY, IMPERIAL, 92227
+63,FARMACIA DEL PUEBLO ,License Type: Pharmacy (Community),EL CENTRO, IMPERIAL, 92243
+64,FARMACIA DEL PUEBLO ,License Type: Pharmacy (Community),CALEXICO, IMPERIAL, 92231
+65,GARFIELD BEACH CVS LLC D/B/A CVS/PHARMACY # 10810 ,License Type: Pharmacy (Community),ARVIN, KERN, 93203
+66,GARFIELD BEACH CVS LLC D/B/A CVS/PHARMACY # 10813 ,License Type: Pharmacy (Community),LAMONT, KERN, 93241
+67,GARFIELD BEACH CVS LLC D/B/A CVS/PHARMACY #10921 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93313
+68,GARFIELD BEACH CVS LLC D/B/A CVS/PHARMACY #10931 ,License Type: Pharmacy (Community),EL CENTRO, IMPERIAL, 92243
+69,HIGH DESERT STATE PRISON PHARMACY ,License Type: Correctional Pharmacy,SUSANVILLE, LASSEN, 96127
+70,HINA'S HOME CARE PHARMACY ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93311
+71,HINA'S MERCY SOUTHWEST PHARMACY INC ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93311
+72,HINAS PHARMACY ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93309
+73,HOFFMANN HOMECARE ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93301
+74,HOPE PHARMACY ,License Type: Pharmacy (Community),Probation, IMPERIAL, 92231
+75,"IN-HOME HEALTH SOLUTIONS PHY, INC. ",License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93304
+76,INGRAMS PHARMACY ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93301
+77,JUSTICE FACILITY PHARMACY ,License Type: Correctional Pharmacy,BAKERSFIELD, KERN, 93308
+78,KAISER PERMANENTE PHARMACY #603 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93309
+79,KAISER PERMANENTE PHARMACY #607 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93309
+80,KAISER PERMANENTE PHARMACY #608 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93308
+81,KAISER PERMANENTE PHARMACY #611 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93301
+82,KAISER PERMANENTE PHARMACY #612 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93301
+83,KAISER PERMANENTE PHARMACY 605 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93306
+84,KAISER PERMANENTE PHARMACY NO 606 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93311
+85,KELSEYVILLE PHARMACY ,License Type: Pharmacy (Community),Accusation filed, LAKE, 95451
+86,KERN MEDICAL CENTER CAMPUS PHARMACY ,License Type: Pharmacy (Government Owned Community),Public Reprimand, KERN, 93305
+87,KERN VALLEY STATE PRISON PHARMACY ,License Type: Correctional Pharmacy,DELANO, KERN, 93215
+88,KILIMANJARO PHARMACY INC ,License Type: Pharmacy (Community),WASCO, KERN, 93280
+89,KMART PHARMACY #3982 ,License Type: Pharmacy (Community),LEMOORE, KINGS, 93245
+90,KMART PHARMACY #4751 ,License Type: Pharmacy (Community),TEHACHAPI, KERN, 93561
+91,KOMOTO MEDICAL PHARMACY ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93301
+92,KOMOTO PHARMACY ,License Type: Pharmacy (Community),DELANO, KERN, 93215
+93,LAKE COUNTY TRIBAL HEALTH PHARMACY ,License Type: Pharmacy (Community),LAKEPORT, LAKE, 95453
+94,LAKE PHARMACY ,License Type: Pharmacy (Community),CLEARLAKE, LAKE, 95422
+95,LANCASTER PHARMACY ,License Type: Pharmacy (Community),MOJAVE, KERN, 93501
+96,LASSEN INDIAN HEALTH CENTER PHARMACY ,License Type: Pharmacy (Government Owned Community),SUSANVILLE, LASSEN, 96130
+97,LEE'S CLINICAL PHARMACY ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93301
+98,LEES BFMC PHARMACY ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93309
+99,LONE PINE DRUG ,License Type: Pharmacy (Community),LONE PINE, INYO, 93545
+100,"LUCERNE PHARMACY, INC ",License Type: Pharmacy (Community),LUCERNE, LAKE, 95458
+101,MERCY PLAZA PHARMACY 24TH ST ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93301
+102,MESA CLINICAL PHARMACY ,License Type: Pharmacy (Government Owned Community),LAKE ISABELLA, KERN, 93240
+103,MING & H DRUGS ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93304
+104,MORAN'S PHARMACY ,License Type: Pharmacy (Community),CLEARLAKE, LAKE, 95422
+105,NEW LEAF PHARMACY ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93309
+106,NEW LEAF PHARMACY ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93307
+107,NILES DRUG STORE ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93305
+108,NORTH CHESTER PHARMACY ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93308
+109,NORTH KERN STATE PRISON ,License Type: Correctional Pharmacy,DELANO, KERN, 93215
+110,NORTH LAKE MEDICAL PHARMACY ,License Type: Pharmacy (Community),LAKEPORT, LAKE, 95453
+111,NORTH LAKE MEDICAL PHARMACY NO 2 ,License Type: Pharmacy (Community),LAKEPORT, LAKE, 95453
+112,OMNI FAMILY HEALTH ,License Type: Pharmacy (Community),SHAFTER, KERN, 93263
+113,OMNI FAMILY HEALTH ,License Type: Pharmacy (Community),WASCO, KERN, 93280
+114,OMNI FAMILY HEALTH N CHESTER ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93308
+115,OPTIMAL HEALTH PHARMACY ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93308
+116,OPTION CARE ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93313
+117,ORLANDCARE PHARMACY AND MEDICAL SUPPLY ,License Type: Pharmacy (Community),ORLAND, GLENN, 95963
+118,OWENS PHARMACY #16 ,License Type: Pharmacy (Community),SUSANVILLE, LASSEN, 96130
+119,PACIFIC PULMONARY SERVICES ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93301
+120,PARKERS PHARMACY ,License Type: Pharmacy (Community),HOLTVILLE, IMPERIAL, 92250
+121,PEOPLES PHARMACY ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93306
+122,PEOPLES PHARMACY #2 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93301
+123,PHAST PHARMACY ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93301
+124,PHYSICIANS PLAZA PHARMACY INC ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93301
+125,PRECISION PHARMACY ,License Type: Pharmacy (Community),Probation Terminated/Completed, KERN, 93311
+126,PREFERRED PHARMACY ,License Type: Pharmacy (Community),EL CENTRO, IMPERIAL, 92243
+127,R & M DRUG ,License Type: Pharmacy (Community),HANFORD, KINGS, 93230
+128,R & M DRUG ,License Type: Pharmacy (Community),CORCORAN, KINGS, 93212
+129,RITE AID #6294 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93314
+130,RITE AID #6302 ,License Type: Pharmacy (Community),SHAFTER, KERN, 93263
+131,RITE AID #6489 ,License Type: Pharmacy (Community),LAMONT, KERN, 93241
+132,RITE AID #6515 ,License Type: Pharmacy (Community),CALEXICO, IMPERIAL, 92231
+133,RITE AID #6549 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93312
+134,RITE AID #6791 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93301
+135,RITE AID 5680 ,License Type: Pharmacy (Community),EL CENTRO, IMPERIAL, 92243
+136,RITE AID 5794 ,License Type: Pharmacy (Community),DELANO, KERN, 93215
+137,RITE AID 5797 ,License Type: Pharmacy (Community),LAKE ISABELLA, KERN, 93240
+138,RITE AID 5814 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93306
+139,RITE AID 5817 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93309
+140,RITE AID 5839 ,License Type: Pharmacy (Community),BISHOP, INYO, 93514
+141,RITE AID 5845 ,License Type: Pharmacy (Community),RIDGECREST, KERN, 93555
+142,RITE AID 5847 ,License Type: Pharmacy (Community),TEHACHAPI, KERN, 93561
+143,RITE AID 6026 ,License Type: Pharmacy (Community),CLEARLAKE, LAKE, 95422
+144,RITE AID 6195 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93311
+145,RITE AID NO 5674 ,License Type: Pharmacy (Community),BRAWLEY, IMPERIAL, 92227
+146,RITE AID NO 5796 ,License Type: Pharmacy (Community),HANFORD, KINGS, 93230
+147,RITE AID NO 5800 ,License Type: Pharmacy (Community),TAFT, KERN, 93268
+148,RITE AID NO 5807 ,License Type: Pharmacy (Community),WASCO, KERN, 93280
+149,RITE AID NO 5809 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93301
+150,RITE AID NO 5811 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93304
+151,RITE AID NO 5815 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93308
+152,RITE AID NO 5816 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93308
+153,RITE AID NO 5837 ,License Type: Pharmacy (Community),CALIFORNIA CITY, KERN, 93505
+154,RITE AID NO 6243 ,License Type: Pharmacy (Community),HANFORD, KINGS, 93230
+155,RITE AID NO 6303 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93313
+156,RITE AID NO 6366 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93308
+157,RITE AID NO 6395 ,License Type: Pharmacy (Community),CORCORAN, KINGS, 93212
+158,RITE AID NO 6451 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93312
+159,RITE AID NO 6475 ,License Type: Pharmacy (Community),LEMOORE, KINGS, 93245
+160,SAFEWAY PHARMACY #0983 ,License Type: Pharmacy (Community),LAKEPORT, LAKE, 95453
+161,SAGE BRUSH MEDICAL PLAZA PHARMACY ,License Type: Pharmacy (Government Owned Community),Public Reprimand, KERN, 93305
+162,SAM'S PHARMACY #10-4819 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93313
+163,SAV-ON PHARMACY #1347 ,License Type: Pharmacy (Community),TEHACHAPI, KERN, 93561
+164,SAV-ON PHARMACY #1398 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93308
+165,SAV-ON PHARMACY #331 ,License Type: Pharmacy (Community),RIDGECREST, KERN, 93555
+166,SAV-ON PHARMACY #336 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93304
+167,SAV-ON PHARMACY #377 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93314
+168,SAVE MART SUPERMARKETS #36 ,License Type: Pharmacy (Community),HANFORD, KINGS, 93230
+169,SAVE MART SUPERMARKETS #73 ,License Type: Pharmacy (Community),LEMOORE, KINGS, 93245
+170,SAVE MART SUPERMARKETS #96 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93312
+171,SHAFTER MEDICAL PHARMACY ,License Type: Pharmacy (Community),SHAFTER, KERN, 93263
+172,SILVER SPRAY PHARMACY ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93305
+173,SOUTHWEST PHARMACY ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93313
+174,THE DRUGSTORE ,License Type: Pharmacy (Community),KERNVILLE, KERN, 93238
+175,THE MEDICINE SHOPPE ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93306
+176,THRIFTY PAYLESS INC DBA RITE AID #5846 ,License Type: Pharmacy (Community),ROSAMOND, KERN, 93560
+177,THRIFTY PAYLESS INC DBA RITE AID #6105 ,License Type: Pharmacy (Community),SUSANVILLE, LASSEN, 96130
+178,THRIFTY PAYLESS INC DBA RITE AID #6716 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93311
+179,THRIFTY PAYLESS INC DBA RITE AID #6768 ,License Type: Pharmacy (Community),MC FARLAND, KERN, 93250
+180,TOIYABE INDIAN HEALTH PROJECT INC ,License Type: Pharmacy (Community),BISHOP, INYO, 93514
+181,TRUXTUN PHARMACY ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93309
+182,TRUXTUN PHARMACY DELANO ,License Type: Pharmacy (Community),DELANO, KERN, 93215
+183,VALLEY MEDICAL PHARMACY ,License Type: Pharmacy (Community),BRAWLEY, IMPERIAL, 92227
+184,VETERINARY PHARMACEUTICALS INC ,License Type: Pharmacy (Community),HANFORD, KINGS, 93230
+185,VONS PHARMACY #1753 ,License Type: Pharmacy (Community),BISHOP, INYO, 93514
+186,VONS PHARMACY #1767 ,License Type: Pharmacy (Community),BRAWLEY, IMPERIAL, 92227
+187,VONS PHARMACY #2033 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93308
+188,VONS PHARMACY #2406 ,License Type: Pharmacy (Community),EL CENTRO, IMPERIAL, 92243
+189,VONS PHARMACY #2420 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93311
+190,WAL MART PHARMACY  10 1624 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93306
+191,WAL-MART PHARMACY #10-1555 ,License Type: Pharmacy (Community),EL CENTRO, IMPERIAL, 92243
+192,WAL-MART PHARMACY #10-1574 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93307
+193,WAL-MART PHARMACY 10-1616 ,License Type: Pharmacy (Community),SUSANVILLE, LASSEN, 96130
+194,WAL-MART PHARMACY 10-1645 ,License Type: Pharmacy (Community),HANFORD, KINGS, 93230
+195,WAL-MART PHARMACY 10-1859 ,License Type: Pharmacy (Community),CALEXICO, IMPERIAL, 92231
+196,WAL-MART PHARMACY 10-1979 ,License Type: Pharmacy (Community),CLEARLAKE, LAKE, 95422
+197,WAL-MART PHARMACY 10-2053 ,License Type: Pharmacy (Community),WILLOWS, GLENN, 95988
+198,WAL-MART PHARMACY 10-5134 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93313
+199,WAL-MART PHARMACY 10-5215 ,License Type: Pharmacy (Community),DELANO, KERN, 93215
+200,WAL-MART PHARMACY 10-5335 ,License Type: Pharmacy (Community),BRAWLEY, IMPERIAL, 92227
+201,WALGREENS #01816 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93313
+202,WALGREENS #03222 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93301
+203,WALGREENS #03272 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93304
+204,WALGREENS #03294 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93306
+205,WALGREENS #05411 ,License Type: Pharmacy (Community),HANFORD, KINGS, 93230
+206,WALGREENS #06526 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93312
+207,WALGREENS #06756 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93309
+208,WALGREENS #06856 ,License Type: Pharmacy (Community),EL CENTRO, IMPERIAL, 92243
+209,WALGREENS #07555 ,License Type: Pharmacy (Community),TEHACHAPI, KERN, 93561
+210,WALGREENS #07909 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93313
+211,WALGREENS #09030 ,License Type: Pharmacy (Community),RIDGECREST, KERN, 93555
+212,WALGREENS #10421 ,License Type: Pharmacy (Community),SUSANVILLE, LASSEN, 96130
+213,WALGREENS #10827 ,License Type: Pharmacy (Community),DELANO, KERN, 93215
+214,WALGREENS #11532 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93311
+215,WALGREENS #11612 ,License Type: Pharmacy (Community),LEMOORE, KINGS, 93245
+216,WALGREENS #13001 ,License Type: Pharmacy (Community),ORLAND, GLENN, 95963
+217,WALGREENS #16382 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93301
+218,WALMART PHARMACY 10 2557 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93312
+219,WALMART PHARMACY 10-1600 ,License Type: Pharmacy (Community),RIDGECREST, KERN, 93555
+220,WALMART PHARMACY 10-3138 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93312
+221,WALMART PHARMACY 10-3139 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93314
+222,WALMART PHARMACY 10-3140 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93308
+223,WALMART PHARMACY 10-3141 ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93307
+224,WALMART PHARMACY 10-5859 ,License Type: Pharmacy (Community),WASCO, KERN, 93280
+225,WASCO STATE PRISON/RC ,License Type: Correctional Pharmacy,WASCO, KERN, 93280
+226,WHITE CROSS PHARMACY ,License Type: Pharmacy (Community),BRAWLEY, IMPERIAL, 92227
+227,WILLOWS PHARMACY ,License Type: Pharmacy (Community),WILLOWS, GLENN, 95988
+228,WISE BUYS DRUGS ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93304
+229,YOUR DRUG STORE ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93306
+230,ZOHA'S PHARMACY ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93309
+231,ZOHA'S PHARMACY ,License Type: Pharmacy (Community),BAKERSFIELD, KERN, 93301

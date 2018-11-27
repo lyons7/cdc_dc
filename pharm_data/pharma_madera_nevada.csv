@@ -1,0 +1,225 @@
+,name,license_type,city,county,zip
+0,A & O CLINIC PHARMACY ,License Type: Pharmacy (Community),SALINAS, MONTEREY, 93901
+1,A & O SPECIALTY PHARMACY ,License Type: Pharmacy (Community),Probation, MONTEREY, 93901
+2,ADVENTIST HEALTH HOWARD MEMORIAL ,License Type: Pharmacy (Community),WILLITS, MENDOCINO, 95490
+3,ADVENTIST HEALTH ST HELENA HOSPITAL DEER PARK OUTPATIENT PHARMACY ,License Type: Pharmacy (Community),ST HELENA, NAPA, 94574
+4,ALISAL LTC PHARMACY ,License Type: Pharmacy (Community),SALINAS, MONTEREY, 93905
+5,ALISAL PHARMACY ,License Type: Pharmacy (Community),SALINAS, MONTEREY, 93905
+6,ALLCARE HOME HEALTH ,License Type: Pharmacy (Community),SALINAS, MONTEREY, 93901
+7,ALLCARE PHARMACY ,License Type: Pharmacy (Community),SALINAS, MONTEREY, 93901
+8,ARENA PHARMACY ,License Type: Pharmacy (Community),POINT ARENA, MENDOCINO, 95468
+9,BK PHARMACY CORP ,License Type: Pharmacy (Community),MADERA, MADERA, 93637
+10,BLUE DRUG ,License Type: Pharmacy (Community),UKIAH, MENDOCINO, 95482
+11,BRANSCOMB PHARMACY ,License Type: Pharmacy (Community),LAYTONVILLE, MENDOCINO, 95454
+12,"BRIOVARX INFUSION SERVICES 401, LLC ",License Type: Pharmacy (Community),MARINA, MONTEREY, 93933
+13,CAMARENA PHARMACY ,License Type: Pharmacy (Community),MADERA, MADERA, 93638
+14,CAP RX LTC INC ,License Type: Pharmacy (Community),PACIFIC GROVE, MONTEREY, 93950
+15,CARMEL DRUG STORE ,License Type: Pharmacy (Community),CARMEL, MONTEREY, 93921
+16,CASTLE PHARMACY ,License Type: Pharmacy (Community),ATWATER, MERCED, 95301
+17,CCWF PHARMACY ,License Type: Correctional Pharmacy,CHOWCHILLA, MADERA, 93610
+18,CENTRAL AVENUE PHARMACY ,License Type: Pharmacy (Community),PACIFIC GROVE, MONTEREY, 93950
+19,CHAPA-DE INDIAN HEALTH PROGRAM INC ,License Type: Pharmacy (Community),GRASS VALLEY, NEVADA, 95945
+20,CLINIC OLE PHARMACY ,License Type: Pharmacy (Community),NAPA, NAPA, 94558
+21,COSTCO PHARMACY #1297 ,License Type: Pharmacy (Community),UKIAH, MENDOCINO, 95482
+22,COSTCO PHARMACY #131 ,License Type: Pharmacy (Community),SAND CITY, MONTEREY, 93955
+23,COSTCO PHARMACY #141 ,License Type: Pharmacy (Community),NOVATO, MARIN, 94945
+24,COSTCO PHARMACY #142 ,License Type: Pharmacy (Community),MERCED, MERCED, 95340
+25,COSTCO PHARMACY 472 ,License Type: Pharmacy (Community),SALINAS, MONTEREY, 93907
+26,CTF PHARMACY ,License Type: Correctional Pharmacy,SOLEDAD, MONTEREY, 93960
+27,CVS PHARMACY #1483 ,License Type: Pharmacy (Community),TIBURON, MARIN, 94920
+28,CVS PHARMACY #3117 ,License Type: Pharmacy (Community),ATWATER, MERCED, 95301
+29,CVS PHARMACY #4952 ,License Type: Pharmacy (Community),SAN RAFAEL, MARIN, 94901
+30,CVS/PHARMACY # 16200 ,License Type: Pharmacy (Community),SALINAS, MONTEREY, 93906
+31,CVS/PHARMACY # 16212 ,License Type: Pharmacy (Community),NOVATO, MARIN, 92945
+32,CVS/PHARMACY # 16447 ,License Type: Pharmacy (Community),SAND CITY, MONTEREY, 93955
+33,CVS/PHARMACY # 17374 ,License Type: Pharmacy (Community),MARINA, MONTEREY, 93933
+34,CVS/PHARMACY # 17423 ,License Type: Pharmacy (Community),LOS BANOS, MERCED, 93635
+35,CVS/PHARMACY # 17449 ,License Type: Pharmacy (Community),ATWATER, MERCED, 95301
+36,CVS/PHARMACY # 17629 ,License Type: Pharmacy (Community),SAN RAFAEL, MARIN, 94901
+37,CVS/PHARMACY #09370 ,License Type: Pharmacy (Community),SAN ANSELMO, MARIN, 94960
+38,CVS/PHARMACY #09506 ,License Type: Pharmacy (Community),SALINAS, MONTEREY, 93901
+39,CVS/PHARMACY #09529 ,License Type: Pharmacy (Community),SAN RAFAEL, MARIN, 94903
+40,CVS/PHARMACY #09612 ,License Type: Pharmacy (Community),CARMEL, MONTEREY, 93923
+41,CVS/PHARMACY #09802 ,License Type: Pharmacy (Community),MONTEREY, MONTEREY, 93940
+42,CVS/PHARMACY #09822 ,License Type: Pharmacy (Community),UKIAH, MENDOCINO, 95482
+43,CVS/PHARMACY #09913 ,License Type: Pharmacy (Community),MILL VALLEY, MARIN, 94941
+44,CVS/PHARMACY #09935 ,License Type: Pharmacy (Community),OAKHURST, MADERA, 93644
+45,CVS/PHARMACY #09947 ,License Type: Pharmacy (Community),NOVATO, MARIN, 94947
+46,CVS/PHARMACY #09951 ,License Type: Pharmacy (Community),SALINAS, MONTEREY, 93907
+47,CVS/PHARMACY #09962 ,License Type: Pharmacy (Community),SAUSALITO, MARIN, 94965
+48,CVS/PHARMACY #09986 ,License Type: Pharmacy (Community),MADERA, MADERA, 93637
+49,CVS/PHARMACY #10360 ,License Type: Pharmacy (Community),LIVINGSTON, MERCED, 95334
+50,CVS/PHARMACY #1300 ,License Type: Pharmacy (Community),SALINAS, MONTEREY, 93906
+51,CVS/PHARMACY #1804 ,License Type: Pharmacy (Community),NAPA, NAPA, 94558
+52,CVS/PHARMACY #3050 ,License Type: Pharmacy (Community),MARINA, MONTEREY, 93933
+53,CVS/PHARMACY #3051 ,License Type: Pharmacy (Community),SALINAS, MONTEREY, 93907
+54,CVS/PHARMACY #3056 ,License Type: Pharmacy (Community),SOLEDAD, MONTEREY, 93960
+55,CVS/PHARMACY #3932 ,License Type: Pharmacy (Community),FORT BRAGG, MENDOCINO, 95437
+56,CVS/PHARMACY #7141 ,License Type: Pharmacy (Community),NAPA, NAPA, 94559
+57,CVS/PHARMACY #7206 ,License Type: Pharmacy (Community),MERCED, MERCED, 95341
+58,CVS/PHARMACY #9155 ,License Type: Pharmacy (Community),GRASS VALLEY, NEVADA, 95945
+59,CVS/PHARMACY #9159 ,License Type: Pharmacy (Community),MADERA, MADERA, 93638
+60,CVS/PHARMACY #9174 ,License Type: Pharmacy (Community),TRUCKEE, NEVADA, 96161
+61,CVS/PHARMACY #9186 ,License Type: Pharmacy (Community),SALINAS, MONTEREY, 93906
+62,CVS/PHARMACY #9214 ,License Type: Pharmacy (Community),NAPA, NAPA, 94558
+63,CVS/PHARMACY #9219 ,License Type: Pharmacy (Community),GREENBRAE, MARIN, 94904
+64,CVS/PHARMACY #9316 ,License Type: Pharmacy (Community),NOVATO, MARIN, 94945
+65,CVS/PHARMACY #9320 ,License Type: Pharmacy (Community),MONTEREY, MONTEREY, 93940
+66,CVS/PHARMACY #9349 ,License Type: Pharmacy (Community),SALINAS, MONTEREY, 93901
+67,DOKIMOS NEVADA CITY PHARMACY ,License Type: Pharmacy (Community),NEVADA CITY, NEVADA, 95959
+68,DOKIMOS' EAST MAIN PHARMACY ,License Type: Pharmacy (Community),GRASS VALLEY, NEVADA, 95945
+69,FAMILY DRUG INC ,License Type: Pharmacy (Community),NAPA, NAPA, 94559
+70,FOODMAXX PHARMACY #487 ,License Type: Pharmacy (Community),MERCED, MERCED, 95348
+71,GARFIELD BEACH CVS LLC D/B/A CVS/PHARMACY # 17694 ,License Type: Pharmacy (Community),SAUSALITO, MARIN, 94965
+72,GKN RX INC ,License Type: Pharmacy (Community),LIVINGSTON, MERCED, 95334
+73,GOLDEN GATE PHARMACY SERVICES ,License Type: Pharmacy (Community),NOVATO, MARIN, 94949
+74,GOLDEN GATE VETERINARY COMPOUNDING PHARMACY INC ,License Type: Pharmacy (Community),NOVATO, MARIN, 94949
+75,GONZALES RX PHARMACY ,License Type: Pharmacy (Community),GONZALES, MONTEREY, 93926
+76,GVHC PMQ MERCED PHARMACY ,License Type: Pharmacy (Community),MERCED, MERCED, 95341
+77,HAHNEMANN LABORATORIES INC ,License Type: Pharmacy (Community),SAN RAFAEL, MARIN, 94901
+78,JACK'S DRUG STORE & MEDICAL SUPPLIES INC ,License Type: Pharmacy (Community),SAN ANSELMO, MARIN, 94960
+79,KAISER HEALTH PLAN MOB 2 PHY 392 ,License Type: Pharmacy (Community),SAN RAFAEL, MARIN, 94903
+80,KAISER HEALTH PLAN OAKHURST PHY 801 ,License Type: Pharmacy (Community),OAKHURST, MADERA, 93644
+81,KAISER HEALTH PLAN PHY 221 ,License Type: Pharmacy (Community),NAPA, NAPA, 94558
+82,KAISER HEALTH PLAN PHY 361 ,License Type: Pharmacy (Community),NOVATO, MARIN, 94945
+83,KAISER HOSPITAL MAIN OP PHARMACY #393 ,License Type: Pharmacy (Community),SAN RAFAEL, MARIN, 94903
+84,KAISER PERMANENTE PHARMACY #222 ,License Type: Pharmacy (Community),NAPA, NAPA, 94558
+85,KAISER PERMANENTE PHARMACY #398 ,License Type: Pharmacy (Community),SAN RAFAEL, MARIN, 94903
+86,KFHP DOWNTOWN SAN RAFAEL PHY #396 ,License Type: Pharmacy (Community),SAN RAFAEL, MARIN, 94901
+87,KMART PHARMACY  9746 ,License Type: Pharmacy (Community),GRASS VALLEY, NEVADA, 95949
+88,LAST FRONTIER PHARMACY ,License Type: Pharmacy (Government Owned Community),ALTURAS, MODOC, 96101
+89,LONGS DRUG STORES CALIFORNIA LLC D/B/A CVS/PHARMACY #9623 ,License Type: Pharmacy (Community),MERCED, MERCED, 95348
+90,LOS BANOS DRUG CO ,License Type: Pharmacy (Community),Public Reprimand, MERCED, 93635
+91,LOYALTY PHARMACY ,License Type: Pharmacy (Community),CHOWCHILLA, MADERA, 93610
+92,LOYALTY PHARMACY 2 ,License Type: Pharmacy (Community),DELHI, MERCED, 95315
+93,LUCKY CALIFORNIA PHARMACY #703 ,License Type: Pharmacy (Community),CARMEL, MONTEREY, 93923
+94,LUCKY PHARMACY #720 ,License Type: Pharmacy (Community),LARKSPUR, MARIN, 94939
+95,LUCKY PHARMACY #730 ,License Type: Pharmacy (Community),NAPA, NAPA, 94559
+96,LUCKY PHARMACY #731 ,License Type: Pharmacy (Community),NAPA, NAPA, 94558
+97,LUCKY PHARMACY #772 ,License Type: Pharmacy (Community),SAND CITY, MONTEREY, 93955
+98,MADERA MEDICAL PHARMACY ,License Type: Pharmacy (Community),MADERA, MADERA, 93637
+99,MARIN MEDICAL PHARMACY ,License Type: Pharmacy (Community),SAN RAFAEL, MARIN, 94903
+100,MARIN WELLNESS PHARMACY ,License Type: Pharmacy (Community),SAN RAFAEL, MARIN, 94903
+101,MCC PHARMACY ,License Type: Pharmacy (Community),SAN RAFAEL, MARIN, 94901
+102,MCC PHARMACY NOVATO ,License Type: Pharmacy (Community),NOVATO, MARIN, 94945
+103,MEMORIAL HOSPITAL LOS BANOS OUTPATIENT PHARMACY ,License Type: Pharmacy (Community),LOS BANOS, MERCED, 93635
+104,MENDOCINO COAST PHARMACY ,License Type: Pharmacy (Community),FORT BRAGG, MENDOCINO, 95437
+105,MENDOCINO COMMUNITY HEALTH CLINIC PHY ,License Type: Pharmacy (Community),UKIAH, MENDOCINO, 95482
+106,MENDOCINO VILLAGE PHARMACY ,License Type: Pharmacy (Community),MENDOCINO, MENDOCINO, 95460
+107,MERCED DRUG ,License Type: Pharmacy (Community),Probation, MERCED, 95340
+108,MYERS MEDICAL PHARMACY ,License Type: Pharmacy (Community),UKIAH, MENDOCINO, 95482
+109,NEUMILLER INFIRMARY PHARMACY ,License Type: Correctional Pharmacy,SAN QUENTIN, MARIN, 94964
+110,NEW LIFE PHARMACY ,License Type: Pharmacy (Community),MADERA, MADERA, 93637
+111,NOB HILL PHARMACY #607 ,License Type: Pharmacy (Community),SALINAS, MONTEREY, 93901
+112,PHARMACA INTEGRATIVE PHARMACY INC ,License Type: Pharmacy (Community),MILL VALLEY, MARIN, 94941
+113,PHARMACA INTEGRATIVE PHARMACY INC ,License Type: Pharmacy (Community),MONTEREY, MONTEREY, 93940
+114,PHARMACA INTEGRATIVE PHARMACY INC ,License Type: Pharmacy (Community),NAPA, NAPA, 94558
+115,PHARMACA INTEGRATIVE PHARMACY INC ,License Type: Pharmacy (Community),NOVATO, MARIN, 94945
+116,PIONEER DRUG ,License Type: Pharmacy (Community),DOS PALOS, MERCED, 93620
+117,PIONEER DRUG #2 ,License Type: Pharmacy (Community),GUSTINE, MERCED, 95322
+118,PIONEER MARKET PHARMACY ,License Type: Pharmacy (Community),MARIPOSA, MARIPOSA, 95338
+119,PLEASANT VALLEY PHARMACY ,License Type: Pharmacy (Community),PENN VALLEY, NEVADA, 95946
+120,RALEYS PHARMACY #213 ,License Type: Pharmacy (Community),GRASS VALLEY, NEVADA, 95949
+121,RALEYS PHARMACY #309 ,License Type: Pharmacy (Community),MERCED, MERCED, 95340
+122,RALEYS PHARMACY #319 ,License Type: Pharmacy (Community),NAPA, NAPA, 94559
+123,RALEYS PHARMACY #328 ,License Type: Pharmacy (Community),UKIAH, MENDOCINO, 95482
+124,RALEYS PHARMACY #340 ,License Type: Pharmacy (Community),OAKHURST, MADERA, 93644
+125,RITE AID #5848 ,License Type: Pharmacy (Community),CHOWCHILLA, MADERA, 93610
+126,RITE AID #6443 ,License Type: Pharmacy (Community),MARIPOSA, MARIPOSA, 95338
+127,RITE AID 5855 ,License Type: Pharmacy (Community),LOS BANOS, MERCED, 93635
+128,RITE AID 5856 ,License Type: Pharmacy (Community),MADERA, MADERA, 93637
+129,RITE AID 5879 ,License Type: Pharmacy (Community),GREENFIELD, MONTEREY, 93927
+130,RITE AID 5880 ,License Type: Pharmacy (Community),KING CITY, MONTEREY, 93930
+131,RITE AID 5882 ,License Type: Pharmacy (Community),MONTEREY, MONTEREY, 93940
+132,RITE AID 5883 ,License Type: Pharmacy (Community),PACIFIC GROVE, MONTEREY, 93950
+133,RITE AID 5957 ,License Type: Pharmacy (Community),SAN RAFAEL, MARIN, 94901
+134,RITE AID 5958 ,License Type: Pharmacy (Community),SAN RAFAEL, MARIN, 94903
+135,RITE AID 5959 ,License Type: Pharmacy (Community),CORTE MADERA, MARIN, 94925
+136,RITE AID 5961 ,License Type: Pharmacy (Community),MILL VALLEY, MARIN, 94941
+137,RITE AID 5963 ,License Type: Pharmacy (Community),NOVATO, MARIN, 94947
+138,RITE AID 6001 ,License Type: Pharmacy (Community),ATWATER, MERCED, 95301
+139,RITE AID 6006 ,License Type: Pharmacy (Community),MERCED, MERCED, 95340
+140,RITE AID 6007 ,License Type: Pharmacy (Community),MERCED, MERCED, 95340
+141,RITE AID 6028 ,License Type: Pharmacy (Community),FORT BRAGG, MENDOCINO, 95437
+142,RITE AID 6033 ,License Type: Pharmacy (Community),UKIAH, MENDOCINO, 95482
+143,RITE AID 6034 ,License Type: Pharmacy (Community),WILLITS, MENDOCINO, 95490
+144,RITE AID 6108 ,License Type: Pharmacy (Community),TRUCKEE, NEVADA, 96161
+145,RITE AID NO 5842 ,License Type: Pharmacy (Community),MAMMOTH LAKES, MONO, 93546
+146,RITE AID NO 6089 ,License Type: Pharmacy (Community),GRASS VALLEY, NEVADA, 95945
+147,RITE AID NO 6310 ,License Type: Pharmacy (Community),SALINAS, MONTEREY, 93905
+148,RITE AID NO 6353 ,License Type: Pharmacy (Community),ALTURAS, MODOC, 96101
+149,RITE AID NO 6379 ,License Type: Pharmacy (Community),LIVINGSTON, MERCED, 95334
+150,RITE AID NO 6389 ,License Type: Pharmacy (Community),OAKHURST, MADERA, 93644
+151,ROMIE LANE PHARMACY INC ,License Type: Pharmacy (Community),SALINAS, MONTEREY, 93901
+152,SAFEWAY PHARMACY #0706 ,License Type: Pharmacy (Community),CARMEL, MONTEREY, 93923
+153,SAFEWAY PHARMACY #0761 ,License Type: Pharmacy (Community),PACIFIC GROVE, MONTEREY, 93950
+154,SAFEWAY PHARMACY #0788 ,License Type: Pharmacy (Community),MILL VALLEY, MARIN, 94941
+155,SAFEWAY PHARMACY #0932 ,License Type: Pharmacy (Community),SAN RAFAEL, MARIN, 94903
+156,SAFEWAY PHARMACY #0965 ,License Type: Pharmacy (Community),WILLITS, MENDOCINO, 95490
+157,SAFEWAY PHARMACY #0978 ,License Type: Pharmacy (Community),FORT BRAGG, MENDOCINO, 95437
+158,SAFEWAY PHARMACY #1110 ,License Type: Pharmacy (Community),SALINAS, MONTEREY, 93901
+159,SAFEWAY PHARMACY #1266 ,License Type: Pharmacy (Community),TRUCKEE, NEVADA, 96161
+160,SAFEWAY PHARMACY #1583 ,License Type: Pharmacy (Community),UKIAH, MENDOCINO, 95482
+161,SAFEWAY PHARMACY #1883 ,License Type: Pharmacy (Community),AMERICAN CANYON, NAPA, 94503
+162,SAFEWAY PHARMACY #2449 ,License Type: Pharmacy (Community),NAPA, NAPA, 94558
+163,SAFEWAY PHARMACY #2654 ,License Type: Pharmacy (Community),SALINAS, MONTEREY, 93905
+164,SAFEWAY PHARMACY #2718 ,License Type: Pharmacy (Community),MILL VALLEY, MARIN, 94941
+165,SAFEWAY PHARMACY #2828 ,License Type: Pharmacy (Community),NOVATO, MARIN, 94949
+166,SAFEWAY PHARMACY #2841 ,License Type: Pharmacy (Community),DEL REY OAKS, MONTEREY, 93940
+167,SALINAS VALLEY PSYCHIATRIC PROGRAM ,License Type: Correctional Pharmacy,SOLEDAD, MONTEREY, 93960
+168,SALINAS VALLEY STATE PRISON ,License Type: Correctional Pharmacy,SOLEDAD, MONTEREY, 93960
+169,SAN JOAQUIN DRUG ,License Type: Pharmacy (Community),PLANADA, MERCED, 95365
+170,SAVE MART PHARMACY #631 ,License Type: Pharmacy (Community),LOS BANOS, MERCED, 93635
+171,SAVE MART SUPERMARKETS #102 ,License Type: Pharmacy (Community),ATWATER, MERCED, 95301
+172,SAVE MART SUPERMARKETS #103 ,License Type: Pharmacy (Community),CHOWCHILLA, MADERA, 93610
+173,SAVE MART SUPERMARKETS #53 ,License Type: Pharmacy (Community),MERCED, MERCED, 95348
+174,SAVE MART SUPERMARKETS #608 ,License Type: Pharmacy (Community),GRASS VALLEY, NEVADA, 95945
+175,SAVE MART SUPERMARKETS #77 ,License Type: Pharmacy (Community),MADERA, MADERA, 93637
+176,SHERMAN'S APOTHECARY PHARMACY ,License Type: Pharmacy (Community),SALINAS, MONTEREY, 93901
+177,SILVERADO PHARMACY ,License Type: Pharmacy (Community),CALISTOGA, NAPA, 94515
+178,SMITHS ST. HELENA PHARMACY ,License Type: Pharmacy (Community),ST HELENA, NAPA, 94574
+179,SOLEDAD PHARMACY ,License Type: Pharmacy (Community),SOLEDAD, MONTEREY, 93960
+180,STAR PHARMACY ,License Type: Pharmacy (Community),SALINAS, MONTEREY, 93901
+181,TAHOE FOREST PHARMACY ,License Type: Pharmacy (Community),TRUCKEE, NEVADA, 96161
+182,THE PILL BOX PHARMACY ,License Type: Pharmacy (Community),MADERA, MADERA, 93638
+183,THRIFTY PAYLESS INC DBA RITE AID #6769 ,License Type: Pharmacy (Community),MONTEREY, MONTEREY, 93940
+184,THRIFTY PAYLESS INC RITE AID #5928 ,License Type: Pharmacy (Community),NAPA, NAPA, 94559
+185,VALLEY PRESCRIPTION & COMPOUNDING PHARMACY ,License Type: Pharmacy (Community),MERCED, MERCED, 95341
+186,VALLEY STATE PRISON PHARMACY ,License Type: Correctional Pharmacy,CHOWCHILLA, MADERA, 93610
+187,VASCONI DRUGS ,License Type: Pharmacy (Community),ST HELENA, NAPA, 94574
+188,VETERANS HOME OF CALIFORNIA-PHARMACY SERVICE ,License Type: Pharmacy (Government Owned Community),YOUNTVILLE, NAPA, 94599
+189,VONS PHARMACY #2400 ,License Type: Pharmacy (Community),MAMMOTH LAKES, MONO, 93546
+190,VONS PHARMACY #2409 ,License Type: Pharmacy (Community),OAKHURST, MADERA, 93644
+191,WAL MART PHARMACY  10 1583 ,License Type: Pharmacy (Community),MADERA, MADERA, 93637
+192,WAL-MART PHARMACY #10-2117 ,License Type: Pharmacy (Community),LOS BANOS, MERCED, 93635
+193,WAL-MART PHARMACY 10-1651 ,License Type: Pharmacy (Community),Public Reprimand, NAPA, 94503
+194,WAL-MART PHARMACY 10-2039 ,License Type: Pharmacy (Community),MERCED, MERCED, 95348
+195,WAL-MART PHARMACY 10-2052 ,License Type: Pharmacy (Community),UKIAH, MENDOCINO, 95482
+196,WAL-MART PHARMACY 10-2458 ,License Type: Pharmacy (Community),SALINAS, MONTEREY, 93906
+197,WAL-MART PHARMACY 10-5751 ,License Type: Pharmacy (Community),SALINAS, MONTEREY, 93907
+198,WAL-MART PHARMACY 10-5890 ,License Type: Pharmacy (Community),ATWATER, MERCED, 95301
+199,WALGREENS #02606 ,License Type: Pharmacy (Community),SALINAS, MONTEREY, 93906
+200,WALGREENS #02867 ,License Type: Pharmacy (Community),SEASIDE, MONTEREY, 93955
+201,WALGREENS #03330 ,License Type: Pharmacy (Community),MERCED, MERCED, 95340
+202,WALGREENS #03446 ,License Type: Pharmacy (Community),SALINAS, MONTEREY, 93905
+203,WALGREENS #04415 ,License Type: Pharmacy (Community),MERCED, MERCED, 95340
+204,WALGREENS #04559 ,License Type: Pharmacy (Community),MILL VALLEY, MARIN, 94941
+205,WALGREENS #04625 ,License Type: Pharmacy (Community),SAN RAFAEL, MARIN, 94901
+206,WALGREENS #04997 ,License Type: Pharmacy (Community),MARINA, MONTEREY, 93933
+207,WALGREENS #06418 ,License Type: Pharmacy (Community),LOS BANOS, MERCED, 93635
+208,WALGREENS #06453 ,License Type: Pharmacy (Community),MADERA, MADERA, 93637
+209,WALGREENS #06718 ,License Type: Pharmacy (Community),ATWATER, MERCED, 95301
+210,WALGREENS #07081 ,License Type: Pharmacy (Community),MONTEREY, MONTEREY, 93940
+211,WALGREENS #07445 ,License Type: Pharmacy (Community),SAN ANSELMO, MARIN, 94960
+212,WALGREENS #09525 ,License Type: Pharmacy (Community),UKIAH, MENDOCINO, 95482
+213,WALGREENS #10881 ,License Type: Pharmacy (Community),GRASS VALLEY, NEVADA, 95945
+214,WALGREENS #11242 ,License Type: Pharmacy (Community),MADERA, MADERA, 93637
+215,WALGREENS #11365 ,License Type: Pharmacy (Community),AMERICAN CANYON, NAPA, 94503
+216,WALGREENS #11822 ,License Type: Pharmacy (Community),NAPA, NAPA, 94558
+217,WALGREENS #12761 ,License Type: Pharmacy (Community),MADERA, MADERA, 93636
+218,WALGREENS #13584 ,License Type: Pharmacy (Community),SAN RAFAEL, MARIN, 94903
+219,WALGREENS #15986 ,License Type: Pharmacy (Community),HILMAR, MERCED, 95324
+220,WALMART PHARMACY #10-4488 ,License Type: Pharmacy (Community),MARINA, MONTEREY, 93933
+221,WALMART PHARMACY NO 10-2925 ,License Type: Pharmacy (Community),NAPA, NAPA, 94558
+222,WEST MARIN PHARMACY INC ,License Type: Pharmacy (Community),POINT REYES STATION, MARIN, 94956
+223,WESTERN SIERRA PHARMACY ,License Type: Pharmacy (Community),GRASS VALLEY, NEVADA, 95945

@@ -131,3 +131,49 @@ for file in os.listdir(directory):
                            'county': county,
                            'zip': zip})
 pharms
+
+# Put this into a big loop
+name = []
+license_type = []
+city =[]
+zip = []
+county = []
+i = 0
+
+# How many of these do we have? We want to just increase that index, that will get us all the entries we want
+# Or if we get a nothing... just keep going
+
+soup = BeautifulSoup(open("/Users/katelyons/Documents/Insight/cdc/pharms/pharma_alameda_fresno.htm", encoding = 'utf-8'), "html.parser")
+articles = soup.find_all('article')
+while i < len(articles): # This way we'll hopefully avoid an Index Error, but we have the try statement down there just in case
+    firstBigTag = soup.find_all('article')[i] # This will go thru all of our entries
+    # Get name
+    try:
+        name_temp = firstBigTag.li.text # Get name
+        name.append(name_temp)
+        # Get license type
+        license_type_temp = firstBigTag.li.find_next('li').find_next('li').text
+        license_type.append(license_type_temp)
+        # Get city name and other geo factors like county and zip
+        city_code = firstBigTag.find_all('span')
+        city_temp = city_code[1].text
+        city.append(city_temp)
+        geo_stuff = firstBigTag.find_all('strong')
+        county_temp = geo_stuff[7].nextSibling
+        county.append(county_temp)
+        zip_temp = geo_stuff[8].nextSibling
+        zip.append(zip_temp)
+    except IndexError: # In case something happens where we try to index something that doesn't exit
+        continue
+    i += 1 # Increase our counter
+pharms2 = pd.DataFrame({'name': name, # Make our data frame
+                   'license_type': license_type,
+                   'city': city,
+                   'county': county,
+                   'zip': zip})
+pharms2
+pharms2.to_csv('pharms2.csv')
+
+# Combine all of these pharms1, pharms2,
+
+# Then we will group by COUNTY and create a new data frame of those groupings
